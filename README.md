@@ -20,7 +20,8 @@ Outfit Recommender App is a Streamlit web app that suggests personalized outfits
 
 ## Demo
 
-![App Demo](demo_screenshot.png)  
+![App Demo](<img width="1323" height="577" alt="Image" src="https://github.com/user-attachments/assets/0f331bc6-1c78-49e2-9159-a4fcb5e836c5" />
+<img width="1350" height="773" alt="Image" src="https://github.com/user-attachments/assets/d7ea6211-29ac-4d3f-b76e-c207be19ed7c" />)  
 > Click the **“✨ Recommend Outfit”** button to get outfit suggestions.
 
 ---
